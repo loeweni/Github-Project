@@ -1,2 +1,2 @@
 # Github-Project
-Thomas, Noah, and Ian are doing the tutorial
+Thomas, Noah, and Ian are doing the first collaboration
