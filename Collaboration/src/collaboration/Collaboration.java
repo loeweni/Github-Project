@@ -14,7 +14,8 @@ public class Collaboration {
 	//fvevvgvrvrtgrgrtvf
 	
 	System.out.println("Hope it works!");
-	System.out.print("ewfvv");
+	
+	
 	}
 
 }
